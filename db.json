@@ -1,3 +1,30 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Xerroze",
+      "description": "Biggest boss fight ever!",
+      "userId": "103942389132015171214",
+      "id": 1
+    },
+    {
+      "title": "LCK Global",
+      "description": "SKT vs SSG",
+      "id": 2
+    },
+    {
+      "title": "Iwonmydude",
+      "description": "asdasdasdsa",
+      "id": 3
+    },
+    {
+      "title": "Pewdiepie",
+      "description": "0 death speed run no 10. Trust me bros!",
+      "id": 4
+    },
+    {
+      "title": "Trickster",
+      "description": "Trickster with trickshots",
+      "id": 5
+    }
+  ]
 }
